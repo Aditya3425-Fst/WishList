@@ -1,12 +1,12 @@
 .wishlist {
   box-shadow: 0px 0px 10px 10px rgb(237, 18, 178);
   /*l-r t-b blur-from-corner */
-  border-radius: 10px ;
+  border-radius: 20px ;
   height: 60vh;
-  width: 40vw;
+  width: 45vw;
   margin: auto;
   /* only applicable when widht is define */
-  margin-top: 10%;
+  margin-top: 20%;
   background-color: rgb(249, 227, 88);
   background:-webkit-linear-gradient(rgb(151, 245, 10), rgb(17, 32, 241), rgb(70, 234, 70));
 }
